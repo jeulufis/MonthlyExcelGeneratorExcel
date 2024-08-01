@@ -4,7 +4,7 @@ Este repositorio contiene un script de Python que automatiza la creación de dir
 
 ## Descripción
 
-El script `crear_carpetas_y_archivos_con_plantilla.py` crea una estructura de carpetas basada en el año actual. Dentro de cada carpeta de mes, se genera un archivo Excel para cada día del mes, utilizando un archivo de plantilla predefinido (`template.xlsx`). Esto es útil para mantener registros diarios organizados y consistentes a lo largo del año.
+El script `automatizacion.py` crea una estructura de carpetas basada en el año actual. Dentro de cada carpeta de mes, se genera un archivo Excel para cada día del mes, utilizando un archivo de plantilla predefinido (`template.xlsx`). Esto es útil para mantener registros diarios organizados y consistentes a lo largo del año.
 
 ## Requisitos
 
@@ -16,7 +16,7 @@ El script `crear_carpetas_y_archivos_con_plantilla.py` crea una estructura de ca
 1. Clona este repositorio en tu máquina local:
 
     ```bash
-    git clone https://github.com/tu-usuario/MonthlyExcelGenerator.git
+    git clone https://github.com/jeulufis/MonthlyExcelGeneratorExcel/tree/main
     ```
 
 2. Navega al directorio del proyecto:
@@ -38,13 +38,13 @@ El script `crear_carpetas_y_archivos_con_plantilla.py` crea una estructura de ca
 2. Ejecuta el script:
 
     ```bash
-    python crear_carpetas_y_archivos_con_plantilla.py
+    python automatizacion.py
     ```
 
    O, si estás utilizando Python 3:
 
     ```bash
-    python3 crear_carpetas_y_archivos_con_plantilla.py
+    python3 automatizacion.py
     ```
 
 3. El script creará un directorio con el nombre del año actual. Dentro de este directorio, habrá subcarpetas para cada
