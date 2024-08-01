@@ -37,7 +37,7 @@ El script `automatizacion.py` crea una estructura de carpetas basada en el año 
 
 ## Uso
 
-1. Asegúrate de tener un archivo de plantilla llamado `template.xlsx` en el mismo directorio que el script `crear_carpetas_y_archivos_con_plantilla.py`.
+1. Asegúrate de tener un archivo de plantilla llamado `template.xlsx` en el mismo directorio que el script `automatizacion.py`.
 
 2. Ejecuta el script:
 
